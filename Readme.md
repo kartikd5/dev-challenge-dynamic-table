@@ -1,7 +1,7 @@
-DB Updating Table Dev Challenge
+Updating Table Dev Challenge
 ===============================
 
-This module contains a development challenge for DB recruitment.
+This module contains a development challenge.
 
 The instructions are in the site/index.html file.
 
